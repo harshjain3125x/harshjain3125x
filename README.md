@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://t3.ftcdn.net/jpg/06/01/17/18/240_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg"  />
+<img align="right" height="320" src="https://t3.ftcdn.net/jpg/06/01/17/18/240_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg"  />
 
 ###
 

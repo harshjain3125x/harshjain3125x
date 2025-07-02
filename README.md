@@ -1,12 +1,12 @@
 # Hi 👋, I'm Harsh Jain
 *A passionate Android Developer || App Developement Enthusiast*
 
-Email Me 👉 ✉ *contact.kanishkgupta@gmail.com* for collaboration, project inquiries, or Anything Else. 😊😊
+Email Me 👉 ✉ *contact.harshjain.3125x@gmail.com* for collaboration, project inquiries, or Anything Else. 😊😊
 
 - 🔭 *I’m currently working on:* Android Projects
 - 🌱 *I’m currently learning:* Python Libaries
 - 💬 *Ask me about:* Collaboration.
-- 📫 *How to reach me:* contact.kanishkgupta@gmail.com
+- 📫 *How to reach me:* contact.harshjain.3125x@gmail.com
 
 <!-- Snake Game Repo View -->
 

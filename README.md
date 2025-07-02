@@ -1,9 +1,9 @@
-# Hi 👋, I'm Kanishk Gupta
-*A passionate Front-End Developer || Machine Learning Enthusiast*
+# Hi 👋, I'm Harsh Jain
+*A passionate Android Developer || App Developement Enthusiast*
 
 Email Me 👉 ✉ *contact.kanishkgupta@gmail.com* for collaboration, project inquiries, or Anything Else. 😊😊
 
-- 🔭 *I’m currently working on:* React Projects
+- 🔭 *I’m currently working on:* Android Projects
 - 🌱 *I’m currently learning:* Python Libaries
 - 💬 *Ask me about:* Collaboration.
 - 📫 *How to reach me:* contact.kanishkgupta@gmail.com
